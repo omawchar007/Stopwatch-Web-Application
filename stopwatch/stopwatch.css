@@ -1,0 +1,21 @@
+
+li:hover {
+  background-color: pink;
+}
+
+li .glyphicon:hover {
+  color: red;
+}
+
+li .list-item {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.glyphicon-remove {
+  cursor: pointer;
+}
+#main-title{
+  font-family: "Reem Kufi Fun", sans-serif;
+  font-weight: bold;
+}
